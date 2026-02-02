@@ -18,7 +18,10 @@
     <ClCompile Include="Main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Direction.cpp">
+    <ClCompile Include="Cubies.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StopClock.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -26,7 +29,10 @@
     <ClInclude Include="HeaderFiles.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Direction.h">
+    <ClInclude Include="Cubies.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StopClock.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
